@@ -5,3 +5,5 @@ function toonWinnaars(){
 		document.write("<p>Op plaats " + (i+1) + " staat : " + winnaars[i] + ".</p>")
 	}
 }
+
+toonWinnaars();
